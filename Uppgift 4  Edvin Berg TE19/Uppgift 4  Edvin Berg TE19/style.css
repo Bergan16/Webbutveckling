@@ -1,0 +1,114 @@
+body{
+	font-family: Verdana;
+	background-color: #696969;
+	margin-top: 0;
+	margin-left: 50px;
+
+}
+/*container without background pictures*/
+.container{
+	
+	background-color: lightblue;
+	width: 800px;
+	float:left;
+
+}
+/*header*/
+.header{
+	background-color: blue;
+	height:75px;
+	background-image: url(https://pngimage.net/wp-content/uploads/2018/06/header-png.png);
+	background-size: 800px;
+	padding-top: 5px;
+	color: white;
+	background-image: no-repeat;
+
+
+
+}
+/*Menu under the Header*/
+.menu{
+	background-color: lightblue;
+	height: 30px;
+
+}
+/* the white square head*/
+.head{
+	background-color: white;
+	float:left;
+	width: 70%;
+	height:565px;
+
+}
+/*Upper text in white square*/
+.headtextfix{
+	padding-top: 10px;
+	padding-left:10px;
+	padding-right: 10px;
+	font-size: 13px
+}
+/*Sidebar*/
+.sidebar{
+	background-color:#008B8B;
+	float:left;
+	width: 30%;
+	height: 400px;
+}
+/*bright blue emtpy space in corner*/
+.emptyspace{
+	background-color:#00FFFF;
+	float:left;
+	height:165px;
+	width: 30%;
+}
+/*Yoda picture in sidebar*/
+.yodapicture{
+	height: 140px;
+	width: 140px ;
+	padding-left: 15px;
+	padding-top: 20px;
+	object-fit:cover;
+}
+/*Sidebar header*/
+.sidebartext{
+	padding-left: 10px;
+	padding-top: 10px;
+	color: white;
+
+}
+/*backgroundpicture to the left*/
+.backgroundpicture{
+	height: 500px;
+	width: 200px;
+	float:left;
+	object-fit: cover;
+	border:1px solid black;
+	
+
+
+}
+/*Background picture to the right*/
+.backgroundpicture2{
+	height:500px;
+	width:200px;
+	float:left;
+	object-fit: cover;
+	border:1px solid black;
+
+}
+/*picture in the white square*/
+.mountain{
+	width:200px;
+	height: 300px;
+	float:left;
+	padding-left: 6px;
+	padding-top: 15px;
+	object-fit: cover;
+}
+/*The text right to the mountain*/
+.textmountain{
+	float:left;
+	font-size: 13px;
+	width: 340px;
+	margin-left: 4px;
+}
